@@ -1,6 +1,5 @@
 ns2 code:
-https://github.com/hbatmit/ns2.35/commit/34ea6ee00f5763ea307289fe047c5aad40d8b550
-(Pick the results of rtt150 alone)
+https://github.com/hbatmit/ns2.35/commit/9cbc214a4b04ce9ed40f341ffa20f97efcc9406e
 
 RemyCCs
 150 ms alone: 150-alone.dna.2 https://github.com/keithw/remy/commit/1d4df5bd73707cdbe38c40846560e61065320be0
