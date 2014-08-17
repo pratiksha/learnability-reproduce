@@ -1,6 +1,9 @@
 ns2 commit:
 https://github.com/hbatmit/ns2.35/commit/34ea6ee00f5763ea307289fe047c5aad40d8b550
 
+Simulation results:
+http://web.mit.edu/remy/learnability/results-rttvar.tar.gz
+
 RemyCCs:
 150 ms alone: 150-alone.dna.2 https://github.com/keithw/remy/commit/1d4df5bd73707cdbe38c40846560e61065320be0 
 145--155 ms : 145--155.dna.4  https://github.com/keithw/remy/commit/c143a61649fbcc12df53c78a7de49bd915fc95cf 
