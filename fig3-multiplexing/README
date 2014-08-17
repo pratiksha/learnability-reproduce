@@ -1,5 +1,9 @@
 ns-2 commit: https://github.com/hbatmit/ns2.35/commit/8518585265803bba0f78c62eb28af930b9f1b6d1
 
+Simulation results:
+http://web.mit.edu/remy/learnability/ns2resultssendersweep-5BDP.tar.gz (5 BDP buffer)
+http://web.mit.edu/remy/learnability/ns2resultssendersweep-infBDP.tar.gz (unbounded buffer)
+
 RemyCC commits:
 1--2 senders:   muxing2.dna.2          https://github.com/keithw/remy/commit/19a226e9c442f8300ed1f0364aec566b17aceaf2
 1--10 senders:  muxing10-resume.dna.3  https://github.com/keithw/remy/commit/57addc0041ddf9b4ea03b504c2dba0c9cad81fd1
