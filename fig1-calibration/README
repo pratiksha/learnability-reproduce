@@ -1,5 +1,8 @@
 ns2 code:
 https://github.com/hbatmit/ns2.35/commit/9cbc214a4b04ce9ed40f341ffa20f97efcc9406e
 
+Simulation results:
+http://web.mit.edu/remy/learnability/resultsoptimal.tar.gz
+
 RemyCCs
 150 ms alone: 150-alone.dna.2 https://github.com/keithw/remy/commit/1d4df5bd73707cdbe38c40846560e61065320be0
