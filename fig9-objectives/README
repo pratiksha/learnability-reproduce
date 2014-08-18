@@ -1,7 +1,0 @@
-ns-2.35 branch:
-https://github.com/hbatmit/ns2.35/tree/diversity-experiments
-
-Remy branch:
-https://github.com/keithw/remy/tree/coexistence
-delta 10.0 alone: commit b1baef44befa2b13b91835e5f88dd8284adaeb99
-delta 0.1 alone: commit e3fc464240afdd6e3515bd63139e0e504ab183f1
