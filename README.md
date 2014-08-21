@@ -6,12 +6,12 @@ Generic instructions for reproducing results:
 Prerequisites
 ================
 
-You will need a C++11 compiler, git, and protobuf-2.4.1 (available from https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz).
+You will need a C++11 compiler, git, and [protobuf-2.4.1](https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz).
 
 Steps
 ================
 
-1. Get the base ns-2 tarball (available at http://web.mit.edu/anirudh/www/ns-allinone-2.35.tar.gz) and untar it.
+1. Get the [base ns-2 tarball](http://web.mit.edu/anirudh/www/ns-allinone-2.35.tar.gz) and untar it.
 
     ```
     tar zxvf ns-allinone-2.35.tar.gz 
