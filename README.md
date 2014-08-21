@@ -6,7 +6,7 @@ Generic instructions for reproducing results:
 Prerequisites
 ================
 
-C++11 compiler, git, libprotobuf-dev, protoc-compiler
+C++11 compiler, git, libprotobuf-dev, protobuf-compiler
 
 
 Steps
