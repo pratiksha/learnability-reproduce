@@ -1,7 +1,12 @@
-learnability-reproduce
+An Experimental Study of the Learnability of Congestion Control
 ======================
 
-Generic instructions for reproducing results:
+This repository contains materials to reproduce the results of a 
+[paper](http://web.mit.edu/keithw/www/Learnability-SIGCOMM2014.pdf), 
+appearing at ACM SIGCOMM 2014, 
+which explores the "learnability" of congestion control protocols
+through the use of an automated protocol design tool, 
+[Remy](http://web.mit.edu/remy/).
 
 Prerequisites
 ================
