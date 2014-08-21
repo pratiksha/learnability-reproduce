@@ -15,6 +15,12 @@ experiment. Run
 to limit the number of parallel simulation runs to N; "-k" allows the 
 simulations to continue even if a few simulations fail for some reason.
 
+### Summarizing the results ###
+In the folder ns-2.35/tcl/ex/decomposability, run
+   ```
+   python sim_scripts/agilityanalysis.py
+   ```
+
 ## Code ##
 
 ### ns-2.35 commit ###
