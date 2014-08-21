@@ -53,4 +53,6 @@ You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecod
     ```
 
 7. Follow the instructions in the README file of the appropriate figure's folder
-   to run the simulations and summarize the results.
+   to run the simulations and summarize the results. The graphmaker and ellipsemaker scripts in
+   ns-2.35/tcl/ex/graphing-scripts can be used to generate the ellipse figures
+   from the results.
