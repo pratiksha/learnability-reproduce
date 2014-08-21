@@ -15,13 +15,11 @@ experiment. Run
 to limit the number of parallel simulation runs to N; "-k" allows the 
 simulations to continue even if a few simulations fail for some reason.
 
-### Summarizing the results ###
-
 ## Code ##
 
 ### ns-2.35 commit ###
 
-https://github.com/hbatmit/ns2.35/commit/c5b90f45203a0938f96f3cc12af0a1b4b1bb425f
+https://github.com/pratiksha/ns2.35/commit/c5b90f45203a0938f96f3cc12af0a1b4b1bb425f
 
 ### Simulation results ###
 

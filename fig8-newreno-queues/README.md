@@ -1,13 +1,11 @@
 ## Instructions ##
 First, check out the appropriate commits in "Code" below.
 
-### Generating the results ###
-
 ## Code ##
 
 ### ns-2.35 commit ###
 
-https://github.com/hbatmit/ns2.35/commit/882ad926743a2af39fdf757c5a3d5411f7c7d4ca
+https://github.com/pratiksha/ns2.35/commit/882ad926743a2af39fdf757c5a3d5411f7c7d4ca
 
 ### Simulation results ###
 

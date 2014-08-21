@@ -2,17 +2,11 @@
 First, check out the appropriate commits in "Code" below.
 
 
-### Generating the results ###
-
-
-### Summarizing the results ###
-
-
 ## Code ##
 
 ### ns-2.35 commit ###
 
-https://github.com/hbatmit/ns2.35/commit/34ea6ee00f5763ea307289fe047c5aad40d8b550
+https://github.com/pratiksha/ns2.35/commit/34ea6ee00f5763ea307289fe047c5aad40d8b550
 
 ### Simulation results ###
 

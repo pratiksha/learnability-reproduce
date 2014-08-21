@@ -11,7 +11,7 @@ In the folder ns-2.35/tcl/ex/decomposability, run
 
 ### ns-2.35 commit ###
 
-https://github.com/hbatmit/ns2.35/commit/cab3437382d61f9e4aad4d81696c44e5f9386424
+https://github.com/pratiksha/ns2.35/commit/cab3437382d61f9e4aad4d81696c44e5f9386424
 
 ### Simulation results ###
 

@@ -29,7 +29,7 @@ You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecod
 
     ```
     rm -rf ns-2.35 
-    git clone https://github.com/hbatmit/ns2.35 ns-2.35
+    git clone https://github.com/pratiksha/ns2.35 ns-2.35
     ```
 
 4.  For each figure in the paper, this repository contains a folder with a README file, which provides the SHA-1 hash for a specific commit in ns-2.35. Check out the ns-2.35 commit for the figure you wish to reproduce using the appropriate SHA-1 hash:
