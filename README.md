@@ -12,7 +12,7 @@ C++11 compiler, git, libprotobuf-dev, protobuf-compiler
 Steps
 ================
 
-1. Get the base ns-2 tarball (available at http://web.mit.edu/remy/learnability/ns-allinone-2.35.tar.gz ) and untar it.
+1. Get the base ns-2 tarball (available at http://web.mit.edu/anirudh/www/ns-allinone-2.35.tar.gz ) and untar it.
 
     ```
     tar zxvf ns-allinone-2.35.tar.gz 
