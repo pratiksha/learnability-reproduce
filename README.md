@@ -34,7 +34,7 @@ Steps
     git clone https://github.com/hbatmit/ns2.35 ns-2.35
     ```
 
-4.  For each figure in the paper, this repository contains a folder with a README file, which provides the SHA-1 hash for a specific commit in ns-2.35. Check out the ns-2.35 commit for the figure you wish to reproduce using the SHA-1 hash provided in its README:
+4.  For each figure in the paper, this repository contains a folder with a README file, which provides the SHA-1 hash for a specific commit in ns-2.35. Check out the ns-2.35 commit for the figure you wish to reproduce using the appropriate SHA-1 hash:
 
     ```
     cd ns-2.35
@@ -48,7 +48,7 @@ Steps
     ./install 
     ```
 
-6.  cd into the folder that has the simulation scripts
+6.  
 
     ```
     cd ns-2.35/tcl/ex/decomposability/congctrl/sim_scripts
