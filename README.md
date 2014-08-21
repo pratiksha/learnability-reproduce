@@ -54,7 +54,3 @@ You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecod
 
 7. Follow the instructions in the README file of the appropriate figure's folder
    to run the simulations and summarize the results.
-
-7. Run the appropriate Python script to generate a Makefile for that experiment.
-
-8. Next, run the appropriate analysis script to summarize the results.
