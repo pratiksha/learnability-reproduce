@@ -1,6 +1,8 @@
 ## Instructions ##
 First, check out the appropriate commits in "Code" below.
 
+(These instructions are temporarily incomplete, and will be updated.)
+
 ## Code ##
 
 ### ns-2.35 commit ###
