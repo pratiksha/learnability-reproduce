@@ -48,10 +48,10 @@ Steps
     ./install 
     ```
 
-6.  
+6.  cd to the decomposability folder in order to run the simulations.
 
     ```
-    cd ns-2.35/tcl/ex/decomposability/congctrl/sim_scripts
+    cd ns-2.35/tcl/ex/decomposability/
     ```
 
 7. Run the appropriate Python script to generate a Makefile for that experiment.
