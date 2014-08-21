@@ -20,6 +20,9 @@ http://web.mit.edu/remy/learnability/resultsdiversity.tar.gz
 ### RemyCC commits ###
 
 https://github.com/keithw/remy/tree/coexistence
+
 delta 10.0 alone: delta-10.0.dna.5 https://github.com/keithw/remy/commit/b1baef44befa2b13b91835e5f88dd8284adaeb99
+
 delta 0.1 alone:  delta-0.1.dna.5  https://github.com/keithw/remy/commit/e3fc464240afdd6e3515bd63139e0e504ab183f1
+
 coevolved RemyCCs: coexistencev2.dna.3.whiskertree1 and coexistencev2.dna.3.whiskertree2 https://github.com/keithw/remy/commit/75b82b6a9cdda25fcf52d32d7e4211b3b34877ca 
