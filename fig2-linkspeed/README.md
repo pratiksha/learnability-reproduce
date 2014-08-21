@@ -1,11 +1,35 @@
-ns-2.35 commit:
+## Instructions ##
+First, check out the appropriate commits in "Code" below.
+
+### Generating the results ###
+In the folder ns-2.35/tcl/ex/decomposability, run
+   ```
+   python sim_scripts/agilitysweep.py > Makefile
+   ```
+The Makefile generated has one target for each distinct ns-2 run required for 
+this
+experiment. Run
+   ```         
+   make -j N -k
+   ```
+to limit the number of parallel simulation runs to N; "-k" allows the 
+simulations to continue even if a few simulations fail for some reason.
+
+### Summarizing the results ###
+
+## Code ##
+
+### ns-2.35 commit ###
+
 https://github.com/hbatmit/ns2.35/commit/c5b90f45203a0938f96f3cc12af0a1b4b1bb425f
 
-Simulation results:
+### Simulation results ###
+
 http://web.mit.edu/remy/learnability/resultslogarithmic.tar.gz (10x, 100x, 1000x, cubic, cubic/sfqcodel)
 http://web.mit.edu/remy/learnability/results2x.tar.gz (2x)
 
-RemyCC commits:
+### RemyCC commits ###
+
 1000x RemyCC: bigbertha2.dna.5     https://github.com/keithw/remy/commit/ad05f8a6cbedc4b4c1a74ffbc3640f02e91920d9
 100x RemyCC:  bigbertha-100x.dna.5 https://github.com/keithw/remy/commit/64dc0a7216fcaba15c052a9132e2a1992460d7cc
 10x RemyCC:   bigbertha-10x.dna.4  https://github.com/keithw/remy/commit/8faf8844bfa1182c7a93b7f207a472c21baf519f

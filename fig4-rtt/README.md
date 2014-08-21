@@ -1,10 +1,25 @@
-ns2 commit:
+## Instructions ##
+First, check out the appropriate commits in "Code" below.
+
+
+### Generating the results ###
+
+
+### Summarizing the results ###
+
+
+## Code ##
+
+### ns-2.35 commit ###
+
 https://github.com/hbatmit/ns2.35/commit/34ea6ee00f5763ea307289fe047c5aad40d8b550
 
-Simulation results:
+### Simulation results ###
+
 http://web.mit.edu/remy/learnability/results-rttvar.tar.gz
 
-RemyCCs:
+### RemyCC commits ###
+
 150 ms alone: 150-alone.dna.2 https://github.com/keithw/remy/commit/1d4df5bd73707cdbe38c40846560e61065320be0 
 145--155 ms : 145--155.dna.4  https://github.com/keithw/remy/commit/c143a61649fbcc12df53c78a7de49bd915fc95cf 
 140--160 ms : 140-160.dna.5   https://github.com/keithw/remy/commit/30909e99a803a4770a325fb47ef271416d0a211b 

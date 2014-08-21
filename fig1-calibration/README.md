@@ -1,5 +1,8 @@
-To generate the results:
-In the folder ns-2.35/tc/ex/decomposability, run
+## Instructions ##
+First, check out the appropriate commits in "Code" below.
+
+### Generating the results ###
+In the folder ns-2.35/tcl/ex/decomposability, run
    ```
    python sim_scripts/agilitysweep.py > Makefile
    ```
@@ -12,14 +15,20 @@ experiment. Run
 to limit the number of parallel simulation runs to N; "-k" allows the 
 simulations to continue even if a few simulations fail for some reason.
 
-To summarize the results:
+
+### Summarizing the results ###
 
 
-ns2 code:
+## Code ##
+
+### ns-2.35 commit ###
+
 https://github.com/hbatmit/ns2.35/commit/9cbc214a4b04ce9ed40f341ffa20f97efcc9406e
 
-Simulation results:
+### Simulation results ###
+
 http://web.mit.edu/remy/learnability/resultsoptimal.tar.gz
 
-RemyCCs
+### RemyCC commit ###
+
 150 ms alone: 150-alone.dna.2 https://github.com/keithw/remy/commit/1d4df5bd73707cdbe38c40846560e61065320be0

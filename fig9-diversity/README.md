@@ -1,16 +1,24 @@
-To generate the results:
+## Instructions ##
+First, check out the appropriate commits in "Code" below.
+
+### Generating the results ###
 In the folder ns-2.35/tcl/ex/decomposability, run
    ```
    ./sim_scripts/diversity.sh
    ```
 
-ns-2.35 commit:
+## Code ##
+
+### ns-2.35 commit ###
+
 https://github.com/hbatmit/ns2.35/commit/cab3437382d61f9e4aad4d81696c44e5f9386424
 
-Simulation Results:
+### Simulation results ###
+
 http://web.mit.edu/remy/learnability/resultsdiversity.tar.gz
 
-RemyCCs:
+### RemyCC commits ###
+
 https://github.com/keithw/remy/tree/coexistence
 delta 10.0 alone: delta-10.0.dna.5 https://github.com/keithw/remy/commit/b1baef44befa2b13b91835e5f88dd8284adaeb99
 delta 0.1 alone:  delta-0.1.dna.5  https://github.com/keithw/remy/commit/e3fc464240afdd6e3515bd63139e0e504ab183f1
