@@ -8,13 +8,11 @@ which explores the "learnability" of congestion control protocols
 through the use of an automated protocol design tool, 
 [Remy](http://web.mit.edu/remy/).
 
-Prerequisites
-================
+## Prerequisites ##
 
 You will need a C++11 compiler, git, and [protobuf-2.4.1](https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz).
 
-Steps
-================
+## Steps ##
 
 1. Get the [base ns-2 tarball](http://web.mit.edu/anirudh/www/ns-allinone-2.35.tar.gz) and untar it.
 
