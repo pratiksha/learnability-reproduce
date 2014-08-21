@@ -10,7 +10,7 @@ through the use of an automated protocol design tool,
 
 ## Prerequisites ##
 
-You will need a C++11 compiler, git, and [protobuf-2.4.1](https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz).
+You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz), Python 2.7, and numpy.
 
 ## Steps ##
 
@@ -52,10 +52,9 @@ You will need a C++11 compiler, git, and [protobuf-2.4.1](https://protobuf.googl
     cd ns-2.35/tcl/ex/decomposability/
     ```
 
+7. Follow the instructions in the README file of the appropriate figure's folder
+   to run the simulations and summarize the results.
+
 7. Run the appropriate Python script to generate a Makefile for that experiment.
-The Makefile has one target for each distinct ns-2 run required for that
-experiment. Running with make -j N -k limits the number of parallel simulation
-runs to N and "-k" allows the simulations to continue even if a few simulations
-fail for some reason.
 
 8. Next, run the appropriate analysis script to summarize the results.
