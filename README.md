@@ -39,7 +39,14 @@ You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecod
     git checkout <SHA-1-hash>
     cd ..
     ```
+4b [UPDATE] The protobuf version on most machines has been updated since we generated protobuf outputs (dna.pb.h and dna.pb.cc in the ns-2.35/tcp/remy). The versions in our ns-2.35 repo are most likely out of date relative to the protobuf version on your machine. To fix this, run the following:
 
+    (assuming you are in the ns-2.35 folder)
+    ```
+    cd tcp/remy
+    protoc --cpp_out=. dna.proto
+    ```
+    
 5.  Now install ns-2.35 with all its components.
 
     ```
