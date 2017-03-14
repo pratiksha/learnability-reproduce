@@ -39,7 +39,7 @@ You will need a C++11 compiler, git, an appropriate version of [Protocol Buffers
     git checkout <SHA-1-hash>
     cd ..
     ```
-4b [UPDATE] The protobuf version on most machines has been updated since we generated protobuf outputs (dna.pb.h and dna.pb.cc in the ns-2.35/tcp/remy). The versions in our ns-2.35 repo are most likely out of date relative to the protobuf version on your machine. To fix this, run the following:
+4b [UPDATE] The protobuf version on most machines has been updated since we generated protobuf outputs (dna.pb.h and dna.pb.cc in the ns-2.35/tcp/remy). The versions in our ns-2.35 repo (using protobuf-2.4.1) are most likely out of date relative to the protobuf version on your machine. To fix this, run the following:
 
     (assuming you are in the ns-2.35 folder)
     ```
