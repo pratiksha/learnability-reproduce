@@ -10,7 +10,7 @@ through the use of an automated protocol design tool,
 
 ## Prerequisites ##
 
-You will need a C++11 compiler, git, [protobuf-2.4.1](https://protobuf.googlecode.com/files/protobuf-2.4.1.tar.gz), Python 2.7, and numpy.
+You will need a C++11 compiler, git, an appropriate version of [Protocol Buffers](https://github.com/google/protobuf) (see step 4b below), Python 2.7, and numpy.
 
 ## Steps ##
 
